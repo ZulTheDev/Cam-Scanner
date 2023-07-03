@@ -1,4 +1,4 @@
-# Cam-Scanner
+# Cam Scanner
 A CLI security VA/PT tool written by AI itself. A program is written in Python, a programming language best used for machine analytics and automation 
 The function of this CLI Application is to analyze if the IP Camera itself has a vulnerability to CVE.
 # Requirement
